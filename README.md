@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I'm Piotr Iśtok, a master's student in Computer Science and Information Systems at Warsaw University of Technology, with a Bachelor of Engineering from the same faculty. I like problems where the algorithm matters (optimization and metaheuristics, GPU programming, data structures with manual memory management) and turning them into complete applications. Lately I focus on bringing AI into businesses: AI agents and automated business processes that deliver real value to a company.
+I'm Piotr Iśtok, a master's student in Computer Science and Information Systems at Warsaw University of Technology, with a Bachelor of Engineering from the same faculty. I focus on bringing AI into businesses: AI agents and automated business processes that deliver real value to a company.
 
 ## 🛠️ Technologies
 
 **Languages:** C# · Python · C++ · CUDA · Rust · C · SQL
 
-**Platforms and tools:** .NET (ASP.NET Core, Blazor, EF Core) · Azure · Flutter · NumPy / pandas · Git · GitHub Actions
+**Platforms and tools:** .NET (ASP.NET Core, Blazor, EF Core) · Azure · Flutter · LangGraph · NumPy / pandas · Git · GitHub Actions
 
 ## 📌 Selected projects
 
